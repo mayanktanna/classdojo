@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_video_call.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\video_call.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_find_people.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\layout\\activity_find_people.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_status.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\edit_status.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_profile.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\edit_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_password.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calling.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\layout\\activity_calling.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_chat.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\layout\\activity_video_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_register.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\register.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\raw_ringing.mp3.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\raw\\ringing.mp3"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_find_people.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\find_people.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contacts.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\layout\\activity_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notifications.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\layout\\activity_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_image.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\profile_image.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_make_call.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\make_call.png"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\layout_contact_design.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\layout\\contact_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\layout_find_friend_design.xml.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\layout\\find_friend_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cancel_call.png.flat",
+        "source": "C:\\Users\\joyso\\OneDrive\\Documents\\classdojo\\app\\src\\main\\res\\drawable\\cancel_call.png"
+    }
+]

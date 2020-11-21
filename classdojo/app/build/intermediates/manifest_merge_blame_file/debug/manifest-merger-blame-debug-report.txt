@@ -1,0 +1,271 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.classdojo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:9:5-65
+13-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:9:22-62
+14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+14-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:11:5-71
+14-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:11:22-68
+15    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+15-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:12:5-80
+15-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:12:22-77
+16    <uses-permission android:name="android.permission.BLUETOOTH" />
+16-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:13:5-68
+16-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:13:22-65
+17    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+17-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:14:5-75
+17-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:14:22-72
+18    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:15:5-75
+18-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:15:22-72
+19
+20    <uses-feature android:name="android.hardware.camera" />
+20-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:17:5-60
+20-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:17:19-57
+21    <uses-feature android:name="android.hardware.camera.autofocus" />
+21-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:18:5-70
+21-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:18:19-67
+22    <uses-feature
+22-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:19:5-21:35
+23        android:glEsVersion="0x00020000"
+23-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:20:9-41
+24        android:required="true" />
+24-->[com.opentok.android:opentok-android-sdk:2.15.3] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\36daadc185a162b17dcb3fe1e657e5c4\jetified-opentok-android-sdk-2.15.3\AndroidManifest.xml:21:9-32
+25
+26    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+26-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:24:5-79
+26-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:24:22-76
+27    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+27-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:25:5-68
+27-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:25:22-65
+28    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+28-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:26:5-82
+28-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:26:22-79
+29
+30    <permission
+30-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:28:5-30:47
+31        android:name="com.example.classdojo.permission.C2D_MESSAGE"
+31-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:29:9-63
+32        android:protectionLevel="signature" />
+32-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:30:9-44
+33
+34    <uses-permission android:name="com.example.classdojo.permission.C2D_MESSAGE" />
+34-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:32:5-79
+34-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:32:22-76
+35
+36    <application
+36-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:8:5-29:19
+37        android:allowBackup="true"
+37-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:9:9-35
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.3.1] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\cdfea8f3da9d3d8e26bbb73a40c2de98\core-1.3.1\AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:icon="@mipmap/ic_launcher"
+40-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:10:9-43
+41        android:label="@string/app_name"
+41-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:11:9-41
+42        android:roundIcon="@mipmap/ic_launcher_round"
+42-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:12:9-54
+43        android:supportsRtl="true"
+43-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:13:9-35
+44        android:testOnly="true"
+45        android:theme="@style/AppTheme" >
+45-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:14:9-40
+46        <activity android:name="com.example.classdojo.VideoChatActivity" />
+46-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:15:9-55
+46-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:15:19-52
+47        <activity android:name="com.example.classdojo.CallingActivity" />
+47-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:16:9-53
+47-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:16:19-50
+48        <activity android:name="com.example.classdojo.ProfileActivity" />
+48-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:17:9-53
+48-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:17:19-50
+49        <activity android:name="com.example.classdojo.FindPeopleActivity" />
+49-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:18:9-56
+49-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:18:19-53
+50        <activity android:name="com.example.classdojo.NotificationsActivity" />
+50-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:19:9-59
+50-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:19:19-56
+51        <activity android:name="com.example.classdojo.SettingsActivity" />
+51-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:20:9-54
+51-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:20:19-51
+52        <activity android:name="com.example.classdojo.RegistrationActivity" >
+52-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:21:9-27:20
+52-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:21:19-55
+53            <intent-filter>
+53-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:22:13-26:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:23:17-69
+54-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:23:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:25:17-77
+56-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:25:27-74
+57            </intent-filter>
+58        </activity>
+59        <activity android:name="com.example.classdojo.ContactsActivity" />
+59-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:28:9-54
+59-->C:\Users\joyso\OneDrive\Documents\classdojo\app\src\main\AndroidManifest.xml:28:19-51
+60        <activity
+60-->[pub.devrel:easypermissions:0.4.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\0ac7939647a3603f45dd37a9863d6857\jetified-easypermissions-0.4.0\AndroidManifest.xml:12:9-16:66
+61            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+61-->[pub.devrel:easypermissions:0.4.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\0ac7939647a3603f45dd37a9863d6857\jetified-easypermissions-0.4.0\AndroidManifest.xml:13:13-86
+62            android:exported="false"
+62-->[pub.devrel:easypermissions:0.4.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\0ac7939647a3603f45dd37a9863d6857\jetified-easypermissions-0.4.0\AndroidManifest.xml:14:13-37
+63            android:label=""
+63-->[pub.devrel:easypermissions:0.4.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\0ac7939647a3603f45dd37a9863d6857\jetified-easypermissions-0.4.0\AndroidManifest.xml:15:13-29
+64            android:theme="@style/EasyPermissions.Transparent" />
+64-->[pub.devrel:easypermissions:0.4.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\0ac7939647a3603f45dd37a9863d6857\jetified-easypermissions-0.4.0\AndroidManifest.xml:16:13-63
+65        <activity
+65-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\b751d0142b7cfd09d45daaf7dae359f5\jetified-firebase-auth-11.8.0\AndroidManifest.xml:23:9-29:75
+66            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+66-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\b751d0142b7cfd09d45daaf7dae359f5\jetified-firebase-auth-11.8.0\AndroidManifest.xml:24:13-85
+67            android:excludeFromRecents="true"
+67-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\b751d0142b7cfd09d45daaf7dae359f5\jetified-firebase-auth-11.8.0\AndroidManifest.xml:25:13-46
+68            android:exported="true"
+68-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\b751d0142b7cfd09d45daaf7dae359f5\jetified-firebase-auth-11.8.0\AndroidManifest.xml:26:13-36
+69            android:launchMode="singleInstance"
+69-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\b751d0142b7cfd09d45daaf7dae359f5\jetified-firebase-auth-11.8.0\AndroidManifest.xml:27:13-48
+70            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+70-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\b751d0142b7cfd09d45daaf7dae359f5\jetified-firebase-auth-11.8.0\AndroidManifest.xml:28:13-102
+71            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+71-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\b751d0142b7cfd09d45daaf7dae359f5\jetified-firebase-auth-11.8.0\AndroidManifest.xml:29:13-72
+72
+73        <provider
+73-->[com.squareup.picasso:picasso:2.71828] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\de5dd431c8506185468f319febd9a9c5\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+74            android:name="com.squareup.picasso.PicassoProvider"
+74-->[com.squareup.picasso:picasso:2.71828] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\de5dd431c8506185468f319febd9a9c5\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+75            android:authorities="com.example.classdojo.com.squareup.picasso"
+75-->[com.squareup.picasso:picasso:2.71828] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\de5dd431c8506185468f319febd9a9c5\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+76            android:exported="false" />
+76-->[com.squareup.picasso:picasso:2.71828] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\de5dd431c8506185468f319febd9a9c5\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+77
+78        <receiver
+78-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:28:9-32:20
+79            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+79-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:29:13-85
+80            android:enabled="true"
+80-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:30:13-35
+81            android:exported="false" >
+81-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:31:13-37
+82        </receiver>
+83        <receiver
+83-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:33:9-41:20
+84            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+84-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:34:13-100
+85            android:enabled="true"
+85-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:35:13-35
+86            android:exported="true"
+86-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:36:13-36
+87            android:permission="android.permission.INSTALL_PACKAGES" >
+87-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:37:13-69
+88            <intent-filter>
+88-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:38:13-40:29
+89                <action android:name="com.android.vending.INSTALL_REFERRER" />
+89-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:39:17-79
+89-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:39:25-76
+90            </intent-filter>
+91        </receiver>
+92
+93        <service
+93-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:43:9-46:40
+94            android:name="com.google.android.gms.measurement.AppMeasurementService"
+94-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:44:13-84
+95            android:enabled="true"
+95-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:45:13-35
+96            android:exported="false" />
+96-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:46:13-37
+97        <service
+97-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:47:9-51:72
+98            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+98-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:48:13-87
+99            android:enabled="true"
+99-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:49:13-35
+100            android:exported="false"
+100-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:50:13-37
+101            android:permission="android.permission.BIND_JOB_SERVICE" />
+101-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\f764fd1c4744098ea6137552d21355b5\jetified-firebase-analytics-11.8.0\AndroidManifest.xml:51:13-69
+102
+103        <receiver
+103-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:35:9-44:20
+104            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+104-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:36:13-78
+105            android:exported="true"
+105-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:37:13-36
+106            android:permission="com.google.android.c2dm.permission.SEND" >
+106-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:38:13-73
+107            <intent-filter>
+107-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:39:13-43:29
+108                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+108-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:40:17-81
+108-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:40:25-78
+109
+110                <category android:name="com.example.classdojo" />
+110-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:42:17-61
+110-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:42:27-58
+111            </intent-filter>
+112        </receiver>
+113        <!--
+114             FirebaseInstanceIdService performs security checks at runtime,
+115             no need for explicit permissions despite exported="true"
+116        -->
+117        <service
+117-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:50:9-56:19
+118            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+118-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:51:13-77
+119            android:exported="true" >
+119-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:52:13-36
+120            <intent-filter android:priority="-500" >
+120-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:53:13-55:29
+120-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:53:28-51
+121                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+121-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:54:17-80
+121-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\8ae53598640d6318a4d3565a8f8b27b7\jetified-firebase-iid-11.8.0\AndroidManifest.xml:54:25-77
+122            </intent-filter>
+123        </service>
+124
+125        <provider
+125-->[com.google.firebase:firebase-common:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\3b528a77bba7918749a667bb895b20cc\jetified-firebase-common-11.8.0\AndroidManifest.xml:8:9-12:39
+126            android:name="com.google.firebase.provider.FirebaseInitProvider"
+126-->[com.google.firebase:firebase-common:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\3b528a77bba7918749a667bb895b20cc\jetified-firebase-common-11.8.0\AndroidManifest.xml:9:13-77
+127            android:authorities="com.example.classdojo.firebaseinitprovider"
+127-->[com.google.firebase:firebase-common:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\3b528a77bba7918749a667bb895b20cc\jetified-firebase-common-11.8.0\AndroidManifest.xml:10:13-72
+128            android:exported="false"
+128-->[com.google.firebase:firebase-common:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\3b528a77bba7918749a667bb895b20cc\jetified-firebase-common-11.8.0\AndroidManifest.xml:11:13-37
+129            android:initOrder="100" />
+129-->[com.google.firebase:firebase-common:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\3b528a77bba7918749a667bb895b20cc\jetified-firebase-common-11.8.0\AndroidManifest.xml:12:13-36
+130
+131        <activity
+131-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\0ccaec39ca147139de66df4fa379be0e\jetified-play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+132            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+132-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\0ccaec39ca147139de66df4fa379be0e\jetified-play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+133            android:exported="false"
+133-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\0ccaec39ca147139de66df4fa379be0e\jetified-play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+134            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+134-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\0ccaec39ca147139de66df4fa379be0e\jetified-play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+135
+136        <meta-data
+136-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\a029219a3ed6880e6c9b263ed3d7728b\jetified-play-services-basement-11.8.0\AndroidManifest.xml:23:9-25:69
+137            android:name="com.google.android.gms.version"
+137-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\a029219a3ed6880e6c9b263ed3d7728b\jetified-play-services-basement-11.8.0\AndroidManifest.xml:24:13-58
+138            android:value="@integer/google_play_services_version" />
+138-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\joyso\.gradle\caches\transforms-2\files-2.1\a029219a3ed6880e6c9b263ed3d7728b\jetified-play-services-basement-11.8.0\AndroidManifest.xml:25:13-66
+139    </application>
+140
+141</manifest>
